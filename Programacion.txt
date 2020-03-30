@@ -1,0 +1,1 @@
+La programación informática es el proceso por medio del cual se diseña, codifica, limpia y protege el código fuente de programas computacionales. ... El objetivo de la programación es la de crear software, que después será ejecutado de manera directa por el hardware de la computadora, o a través de otro programa.
